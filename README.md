@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/DenisAndino/">Denis Andino</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am an aspiring cybersecurity professional with a strong passion for the field. I'm currently working as a food delivery driver while self-learning and building a hands-on project portfolio. My projects demonstrate my skills in vulnerability management and threat detection, and I've been using tools like Azure, Sentinel, and Tenable to gain practical experience as I work to break into the industry.
 
 
 ## ⚠️ Vulnerability Management Projects
